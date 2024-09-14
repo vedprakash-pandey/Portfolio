@@ -1,30 +1,30 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: 'sachin.gabhud12@gmail.com',
 
   socialMedia: [
     {
+      name: 'Linkedin',
+      url: 'https://www.linkedin.com/in/sachingabhud/',
+    },
+    {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/sachingabhud',
+    },
+    {
+      name: 'Leetcode',
+      url: 'https://leetcode.com/u/sachin9922/',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
-    },
-    {
-      name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      url: 'https://www.instagram.com/sachin_gabhud/',
     },
   ],
 
   navLinks: [
+    {
+      name: 'Home',
+      url: '/',
+    },
     {
       name: 'About',
       url: '/#about',
