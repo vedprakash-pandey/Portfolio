@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { Helmet } from 'react-helmet';
-import { Link, withPrefix } from 'gatsby';
+import { Link } from 'gatsby';
 import styled from 'styled-components';
 import { navLinks } from '@config';
 import { KEY_CODES } from '@utils';
@@ -266,7 +266,11 @@ const Menu = () => {
               </ol>
             )}
 
-            <a href={withPrefix('/resume.pdf')} target="_blank" className="resume-link" rel="noreferrer">
+            <a
+              href="https://drive.google.com/file/d/17JN9RMyaJAh_aI66uS1Y-Skp8HxNk3fG/view?usp=drive_link"
+              target="_blank"
+              className="resume-link"
+              rel="noreferrer">
               Resume
             </a>
           </nav>

@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Link, withPrefix } from 'gatsby';
+import { Link } from 'gatsby';
 import PropTypes from 'prop-types';
 import { CSSTransition, TransitionGroup } from 'react-transition-group';
 import styled, { css } from 'styled-components';
@@ -208,7 +208,7 @@ const Nav = ({ isHome }) => {
   const ResumeLink = (
     <a
       className="resume-button"
-      href={withPrefix('/resume.pdf')}
+      href="https://drive.google.com/file/d/17JN9RMyaJAh_aI66uS1Y-Skp8HxNk3fG/view?usp=drive_link"
       target="_blank"
       rel="noopener noreferrer">
       Resume
