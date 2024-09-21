@@ -4,7 +4,7 @@ title: 'Associate Software Engineer'
 company: 'ElasticRun'
 location: 'Pune'
 range: 'Jan 2022 - Feb 2023'
-url: 'https://www.apple.com/music/'
+url: 'https://www.elastic.run/'
 ---
 
 - Led the migration of an enterprise application from Angular to React improving performance by 25%.

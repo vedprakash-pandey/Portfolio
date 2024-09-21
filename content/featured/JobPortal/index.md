@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Job Portal Platform'
-cover: './portal.png'
+cover: './hired.png'
 github: 'https://github.com/sachingabhud'
 # external: 'https://halcyon-theme.netlify.com/'
 tech:
