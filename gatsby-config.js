@@ -1,11 +1,12 @@
 const config = require('./src/config');
 
 module.exports = {
+  pathPrefix: '/Portfolio',
   siteMetadata: {
     title: 'Sachin Gabhud',
     description:
       'Sachin Gabhud is a software engineer who specializes in building exceptional digital experiences.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    siteUrl: 'https://sachingabhud.github.io', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@bchiang7',
   },
@@ -22,7 +23,7 @@ module.exports = {
       options: {
         name: 'Brittany Chiang',
         short_name: 'Brittany Chiang',
-        start_url: '/',
+        start_url: '/Portfolio/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
         display: 'minimal-ui',
