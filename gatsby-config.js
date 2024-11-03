@@ -1,7 +1,7 @@
 const config = require('./src/config');
 
 module.exports = {
-  pathPrefix: '/portfolio',
+  pathPrefix: '/Portfolio',
   siteMetadata: {
     title: 'Vedprakash Pandey',
     description:
@@ -23,7 +23,7 @@ module.exports = {
       options: {
         name: 'Vedprakash Pandey',
         short_name: 'Vedprakash Pandey',
-        start_url: '/portfolio/',
+        start_url: '/Portfolio/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
         display: 'minimal-ui',
