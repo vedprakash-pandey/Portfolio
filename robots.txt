@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://vedprakashpandey.github.io/Portfolio/sitemap-index.xml
-Host: https://vedprakashpandey.github.io
+Sitemap: https://vedprakash-pandey.github.io/Portfolio/sitemap-index.xml
+Host: https://vedprakash-pandey.github.io
