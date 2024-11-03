@@ -6,7 +6,7 @@ module.exports = {
     title: 'Vedprakash Pandey',
     description:
       'Vedprakash Pandey is a software engineer who specializes in building exceptional digital experiences.',
-    siteUrl: 'https://vedprakashpandey.github.io', // No trailing slash allowed!
+    siteUrl: 'https://vedprakash-pandey.github.io', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@bchiang7',
   },
@@ -21,8 +21,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Brittany Chiang',
-        short_name: 'Brittany Chiang',
+        name: 'Vedprakash Pandey',
+        short_name: 'Vedprakash Pandey',
         start_url: '/Portfolio/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,

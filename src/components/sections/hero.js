@@ -61,18 +61,19 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Vedprakash pandey.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const three = <h3 className="big-heading">I build backend systems.</h3>;
   const four = (
     <>
       <p>
-      I'm an experienced Software Engineer specializing in building scalable, high-performance systems using <strong>Python, Javascript, Django, Frappe, Kubernetes and AWS</strong>{' '}
+        I'm an experienced Software Engineer specializing in building scalable, high-performance
+        systems using <strong>Python, Javascript, Django, Frappe, Kubernetes and AWS</strong>{' '}
         <p>
           Currently, at{' '}
           <a href="https://netenrich.com/" target="_blank" rel="noreferrer">
             Netenrich
           </a>
-          , I design and develop scalable backend systems, optimize database performance, 
-          & build streamlined microservices that ensure reliable and efficient operations across the system.
+          , I design and develop scalable backend systems, optimize database performance, & build
+          streamlined microservices that ensure reliable and efficient operations across the system.
         </p>
       </p>
     </>

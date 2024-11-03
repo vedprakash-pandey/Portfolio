@@ -12,7 +12,7 @@ module.exports = {
     },
     {
       name: 'Leetcode',
-      url: 'https://leetcode.com/u/vedpraksh_20/',
+      url: 'https://leetcode.com/u/vedprakash_20/',
     },
     {
       name: 'Instagram',
