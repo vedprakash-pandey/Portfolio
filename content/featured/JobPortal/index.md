@@ -1,6 +1,6 @@
 ---
 date: '1'
-title: 'Content Based Recommender System'
+title: 'Content Based Recommender'
 cover: './recommendation_system.png'
 github: 'https://github.com/vedprakash-pandey/Movie-recommendation-system'
 # external: 'https://halcyon-theme.netlify.com/'

@@ -1,6 +1,6 @@
 ---
 date: '2'
-title: 'Student Quality Analysis System'
+title: 'Student Quality Analysis'
 cover: './sqas1.png'
 github: 'https://github.com/vedprakash-pandey/student-quality-analysis-system-1'
 # external: 'https://spotify-profile.herokuapp.com/'
