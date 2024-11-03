@@ -2,10 +2,10 @@
   "name": "v4",
   "description": "Personal Website V4",
   "version": "1.0.0",
-  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+  "author": "Vedprakash Pandey <vedprakashpandey2023@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/v4"
+    "url": "https://github.com/vedprakash-pandey/"
   },
   "keywords": [
     "gatsby"
@@ -22,7 +22,7 @@
     "prepare": "husky install",
     "lint-staged": "lint-staged",
     "predeploy": "gatsby build",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public -b dev"
   },
   "lint-staged": {
     "*.{js,css,json,md}": [
