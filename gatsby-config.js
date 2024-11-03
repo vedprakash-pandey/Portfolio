@@ -3,10 +3,10 @@ const config = require('./src/config');
 module.exports = {
   pathPrefix: '/Portfolio',
   siteMetadata: {
-    title: 'Sachin Gabhud',
+    title: 'Vedprakash Pandey',
     description:
-      'Sachin Gabhud is a software engineer who specializes in building exceptional digital experiences.',
-    siteUrl: 'https://sachingabhud.github.io', // No trailing slash allowed!
+      'Vedprakash Pandey is a software engineer who specializes in building exceptional digital experiences.',
+    siteUrl: 'https://vedprakashpandey.github.io', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@bchiang7',
   },
@@ -27,7 +27,7 @@ module.exports = {
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
         display: 'minimal-ui',
-        icon: 'src/images/logo.png',
+        icon: 'src/images/logo.jpg',
       },
     },
     `gatsby-plugin-offline`,

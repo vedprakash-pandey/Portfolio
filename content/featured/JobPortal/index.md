@@ -1,21 +1,18 @@
 ---
 date: '1'
-title: 'Job Portal Platform'
-cover: './hired.png'
-github: 'https://github.com/sachingabhud'
+title: 'Content Based Recommender System'
+cover: './recommendation_system.png'
+github: 'https://github.com/vedprakash-pandey/Movie-recommendation-system'
 # external: 'https://halcyon-theme.netlify.com/'
 tech:
-  - React
-  - Javascript
+  - Python
+  - Flask
+  - NLP
   - HTML
   - CSS
-  - Tailwind
-  - Shadcn/ui
+  - Javascript
 ---
 
-Developed a job portal with React.js, Shadcn UI, and Tailwind CSS,
-featuring secure Google and custom email authentication.
-Implemented job posting and application tracking for recruiters and
-candidates, including resume uploads via cloud storage.
-Designed a fully responsive application with advanced search, ﬁlter
-options, and job wishlisting functionalities.
+Content Based Recommender System recommends movies similar to the movie user likes and analyses the sentiments on the reviews given by the user for that movie.
+
+The details of the movies are fetched using an API by TMDB, and using the IMDB id of the movie in the API, I did web scraping to get the reviews given by the user in the IMDB and performed sentiment analysis on those reviews.

@@ -3,18 +3,23 @@ date: '2022-01-03'
 title: 'Associate Software Engineer'
 company: 'ElasticRun'
 location: 'Pune'
-range: 'Jan 2022 - Feb 2023'
+range: 'Jan 2022 - Jan 2023'
 url: 'https://www.elastic.run/'
 ---
 
-- Led the migration of an enterprise application from Angular to React improving performance by 25%.
-- Refactored and optimized 20+ legacy components, reducing code
-  complexity by 30%.
-- Collaborated with cross-functional teams to ensure smooth
-  integration and adherence to best practices.
-- Implemented and delivered major key features from scratch like
-  ePayLater Financier Integration, Customer KYC, Waive oﬀ on order
-  etc. which are used by more than 1 lakh users.
+- Developed and streamlined a data pipeline for a data-platform
+  application, enabling seamless data flow across various systems and
+  customer-facing applications. Created dynamic SQL-based reports
+  and visualized insights through dynamic charts, improving data
+  accessibility for clients by 40%
+- Led database segregation and migration initiatives, improving data
+  security and management efficiency.
+- Developed a flexible, menu-based chatbot system integrated with
+  WhatsApp via the Kaleyra API, automating customer interactions and
+  reducing manual support efforts by 30%.
+- Created a plugin-like feature called Insight Charts, enabling brands to
+  visualize and share data-driven insights. This feature enhanced client
+  engagement by 20% and improved decision-making processes.
 
 <!-- ---
 date: '2017-04-01'

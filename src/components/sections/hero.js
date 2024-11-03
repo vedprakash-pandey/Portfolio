@@ -60,20 +60,19 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Sachin Gabhud.</h2>;
+  const two = <h2 className="big-heading">Vedprakash pandey.</h2>;
   const three = <h3 className="big-heading">I build things for the web.</h3>;
   const four = (
     <>
       <p>
-        I'm an experienced software engineer specializing in building complex, high-performance, and
-        user-friendly web applications using <strong>ReactJS, JavaScript, HTML, and CSS.</strong>{' '}
+      I'm an experienced Software Engineer specializing in building scalable, high-performance systems using <strong>Python, Javascript, Django, Frappe, Kubernetes and AWS</strong>{' '}
         <p>
           Currently, at{' '}
           <a href="https://netenrich.com/" target="_blank" rel="noreferrer">
             Netenrich
           </a>
-          , I develop complex interfaces, implement scalable features, and maintain dynamic UI
-          components, ensuring exceptional performance and user engagement.
+          , I design and develop scalable backend systems, optimize database performance, 
+          & build streamlined microservices that ensure reliable and efficient operations across the system.
         </p>
       </p>
     </>
@@ -81,7 +80,7 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="https://www.linkedin.com/in/sachingabhud/"
+      href="https://www.linkedin.com/in/vedprakash-pandey-26b0861b5/"
       target="_blank"
       rel="noreferrer">
       Check out my Profile!

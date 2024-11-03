@@ -126,14 +126,14 @@ const About = () => {
   }, []);
 
   const skills = [
+    'Python',
     'JavaScript (ES6+)',
-    'React',
-    'HTML',
-    'CSS',
-    'Redux',
-    'ANT Design',
-    'Bootstrap',
-    'Data Structures',
+    'Django',
+    'Frappe',
+    'FastApi',
+    'Docker',
+    'Kubernetes',
+    'AWS'
   ];
 
   return (
@@ -144,19 +144,23 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is <strong>Sachin</strong> and I enjoy creating things that are live on
-              the internet. I’m <strong>Frontend Developer</strong> with nearly 3 years of
-              experience building responsive and dynamic web applications. I’m passionate about
-              technology and problem-solving, which drives me to create user-friendly,
-              high-performance interfaces using ReactJS, JavaScript, HTML &amp; CSS.
+ building scalable, high-performance backend systems and optimizing databases. I’m passionate about problem-solving and technology, which fuels my drive to create efficient, reliable systems that can handle real-world challenges.
+            </p>
+            <p>
+              Hello! My name is <strong>Vedprakash</strong> and I enjoy creating things that are live on
+              the internet. I’m <strong>Backend Developer</strong> with nearly 3 years of
+              experience building scalable, high-performance backend systems and optimizing databases. 
+              I’m passionate about problem-solving and technology, which fuels my drive to create efficient, 
+              reliable systems that can handle real-world challenges.
             </p>
 
             <p>
-              Currently, I’m working at Netenrich, where I lead the development of complex UI
-              components and scalable features that enhance both performance and user engagement.
-              Whether it’s optimizing application speed, improving user interfaces, or collaborating
-              with cross-functional teams, I strive to deliver intuitive solutions that make a real
-              impact.
+              Currently, I’m working at Netenrich, where I lead the development of custom multi-tenancy solutions,
+              optimize database performance, and implement scalable microservices. 
+              Whether it’s improving system architecture, enhancing scalability, 
+              or collaborating with cross-functional teams, I’m committed to delivering 
+              impactful solutions that drive operational efficiency and performance.
+
             </p>
 
             <p>

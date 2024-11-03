@@ -1,14 +1,15 @@
 ---
 date: '2'
-title: 'Youtube Clone'
-cover: './demo.png'
-github: 'https://github.com/sachingabhud'
+title: 'Student Quality Analysis System'
+cover: './sqas1.png'
+github: 'https://github.com/vedprakash-pandey/student-quality-analysis-system-1'
 # external: 'https://spotify-profile.herokuapp.com/'
 tech:
-  - React
+  - PHP
   - Javascript
   - HTML
   - CSS
+  - MYSQL
 ---
 
-Built a responsive YouTube clone using HTML, CSS, React, and JavaScript. It features video search and playback, dynamic content rendering, and real-time video data like titles and descriptions. The app is fully responsive, offering a seamless experience across devices. With React's state management, the app ensures smooth interactions and fast performance.
+Developed a Student Quality Analysis System with LMS features, providing principals and HODs detailed insights across batch, class, and department levels to monitor performance trends and guide improvement.

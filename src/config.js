@@ -1,22 +1,22 @@
 module.exports = {
-  email: 'sachin.gabhud12@gmail.com',
+  email: 'vedprakashpandey2023@gmail.com',
 
   socialMedia: [
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/sachingabhud/',
+      url: 'https://www.linkedin.com/in/vedprakash-pandey-26b0861b5/',
     },
     {
       name: 'GitHub',
-      url: 'https://github.com/sachingabhud',
+      url: 'https://github.com/vedprakash-pandey',
     },
     {
       name: 'Leetcode',
-      url: 'https://leetcode.com/u/sachin9922/',
+      url: 'https://leetcode.com/u/vedpraksh_20/',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/sachin_gabhud/',
+      url: 'https://www.instagram.com/vedprakash_20/',
     },
   ],
 
