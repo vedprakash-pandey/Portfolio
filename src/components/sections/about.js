@@ -133,7 +133,7 @@ const About = () => {
     'FastApi',
     'Docker',
     'Kubernetes',
-    'AWS'
+    'AWS',
   ];
 
   return (
@@ -144,23 +144,19 @@ const About = () => {
         <StyledText>
           <div>
             <p>
- building scalable, high-performance backend systems and optimizing databases. I’m passionate about problem-solving and technology, which fuels my drive to create efficient, reliable systems that can handle real-world challenges.
-            </p>
-            <p>
-              Hello! My name is <strong>Vedprakash</strong> and I enjoy creating things that are live on
-              the internet. I’m <strong>Backend Developer</strong> with nearly 3 years of
-              experience building scalable, high-performance backend systems and optimizing databases. 
-              I’m passionate about problem-solving and technology, which fuels my drive to create efficient, 
-              reliable systems that can handle real-world challenges.
+              Hello! My name is <strong>Vedprakash</strong> and I enjoy creating things that are
+              live on the internet. I’m <strong>Backend Developer</strong> with nearly 3 years of
+              experience building scalable, high-performance backend systems and optimizing
+              databases. I’m passionate about problem-solving and technology, which fuels my drive
+              to create efficient, reliable systems that can handle real-world challenges.
             </p>
 
             <p>
-              Currently, I’m working at Netenrich, where I lead the development of custom multi-tenancy solutions,
-              optimize database performance, and implement scalable microservices. 
-              Whether it’s improving system architecture, enhancing scalability, 
-              or collaborating with cross-functional teams, I’m committed to delivering 
-              impactful solutions that drive operational efficiency and performance.
-
+              Currently, I’m working at Netenrich, where I lead the development of custom
+              multi-tenancy solutions, optimize database performance, and implement scalable
+              microservices. Whether it’s improving system architecture, enhancing scalability, or
+              collaborating with cross-functional teams, I’m committed to delivering impactful
+              solutions that drive operational efficiency and performance.
             </p>
 
             <p>

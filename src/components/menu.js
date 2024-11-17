@@ -267,7 +267,7 @@ const Menu = () => {
             )}
 
             <a
-              href="https://drive.google.com/file/d/1vLUfTBqeCTZamsdmI3YAd9jRwQFSanu1/view"
+              href="https://drive.google.com/file/d/12vkU2Ot7IHHoPVmKR_Mrqdyr6PYHsa2P/view"
               target="_blank"
               className="resume-link"
               rel="noreferrer">
